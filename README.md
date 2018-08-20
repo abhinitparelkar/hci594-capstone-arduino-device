@@ -7,7 +7,7 @@ The device program is developed in C.
 
 The program operates certain electronic modules which are attached to Arduino. 
 
-In order to re-use the code and to comprehend its operation, refer the schematics attached in this rep. with an extension ".png"
+In order to re-use the code and to comprehend its operation, refer the schematics attached in this repo. with an extension ".png"
 
 The program operation is based on a custom built timer function derived from:
 https://www.tested.com/art/makers/456717-how-build-timer-clock-and-learn-arduino-process/  
